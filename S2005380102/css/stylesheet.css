@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+}
+li{
+    float:left;
+    list-style: none;
+    
+}
+.dh{
+
+   background: #e3e4e5; 
+   height: 55px;
+}
+a{
+    color: #666;
+    text-decoration:none
+}
+.bk{
+    overflow: hidden;
+    margin: 20px 5px 0;
+    width: 1px;
+    background-color:#666;
+}
+.zt{
+    margin: 0 auto;
+    width: 925px;
+}
+.wdjd:hover{
+    position:relative;
+    float: left;
+    height: 31px;
+    background-color: white;
+
+}
+#jd .two{
+    
+    width: 10px;
+    position:relative;
+    top: 10px;
+    right: 0px;
+    visibility:hidden;
+    }
+ #jd:hover .two {
+        visibility:visible; 
+    }
+.wdjd{
+    padding-top: 20px;
+    height: 10px;
+}
+.two li{
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 100px;
+    height: 20px;
+
+}
+
+.two .db{
+
+    box-shadow: 1px 2px 1px rgb(0 0 0 / 10%);
+    background-color: white;
+    width: 350px;
+    height: 270px;
+    padding-left: 0px;
+    
+}
+.db ul
+{
+
+    width: 350px;
+    float: left;
+    padding-left: 0px;
+}
+.de{
+    float: right;
+}
+.x{
+    margin-top: 5px;
+}
+hr{
+    margin-bottom: 0px;
+}
+.dh li{
+    padding-top: 20px;
+}
+.jdwd li{
+    padding-top: 0px;
+}
+a:hover{
+    color: red;
+}
